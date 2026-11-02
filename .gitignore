@@ -1,0 +1,19 @@
+node_modules
+dist
+.env
+*.log
+.DS_Store
+.env.*
+!.env.example
+
+# Configuración local de Claude y documentación para el front
+.claude/
+CLAUDE.md
+docs/
+
+# Manuales de usuario de los proyectos
+MANUAL/
+
+# Datos personales del portafolio (todavía no publicados)
+seed/
+
